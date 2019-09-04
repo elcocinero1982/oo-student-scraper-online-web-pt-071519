@@ -1,2 +1,2 @@
 require 'nokogiri'
-require_relative
+require_relative ''
